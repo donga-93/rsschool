@@ -11,14 +11,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tastypurgen/english-for-kids.git"
+		"url": ""
 	},
 	"author": "Andrei Abramchuk",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/tastypurgen/english-for-kids/issues"
+		"url": ""
 	},
-	"homepage": "https://github.com/tastypurgen/english-for-kids#readme",
+	"homepage": "",
 	"devDependencies": {
 		"@babel/core": "^7.9.6",
 		"@babel/preset-env": "^7.9.6",
